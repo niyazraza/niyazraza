@@ -45,10 +45,24 @@
 
 ---
 
-## 📌 Featured Projects  
-- 🔹 [AI Resume Analyzer](https://github.com/niyazraza/AI-Resume-Analyzer)  
-- 🔹 [Student Management System](#) *(to be added)*  
-- 🔹 [Portfolio Website](#) *(to be added)*  
+## 🚀 Featured Projects  
+
+### 🔹 [AI Resume Analyzer](https://github.com/niyazraza/AI-Resume-Analyzer)  
+A tool that uses AI to analyze resumes and give suggestions for improvement.  
+🔗 [Live Demo](https://ai-resume-demo.netlify.app) | 💻 [Source Code](https://github.com/niyazraza/AI-Resume-Analyzer)
+
+---
+
+### 🔹 [Student Management System](https://github.com/niyazraza/student-management-system)  
+A full-stack Java web application for managing student records with CRUD functionality.  
+🔗 [Live Demo](https://student-ms-demo.render.com) | 💻 [Source Code](https://github.com/niyazraza/student-management-system)
+
+---
+
+### 🔹 [Portfolio Website](https://github.com/niyazraza/portfolio)  
+Personal portfolio website built with React + Tailwind CSS showcasing projects & skills.  
+🔗 [Live Demo](https://niyazraza.netlify.app) | 💻 [Source Code](https://github.com/niyazraza/portfolio)
+
 
 ---
 
